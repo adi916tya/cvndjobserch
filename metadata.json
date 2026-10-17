@@ -1,0 +1,6 @@
+{
+  "name": "AtelierMatch — Spatial ATS & CV Optimizer",
+  "description": "Curatorial ATS scan analysis and architectural dossier optimizer benchmarked against luxury interior design and architecture studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
